@@ -1,9 +1,9 @@
 # AI Career Coach
 
 **AI Career Coach** is a modern web application designed to help users using Powerful Features for Your Career Growth like
->AI-Powered Career Guidance
->Interview Preparation
->Industry Insights
+>AI-Powered Career Guidance,
+>Interview Preparation,
+>Industry Insights,
 >Smart Resume Creation
 <img width="913" height="583" alt="image" src="https://github.com/user-attachments/assets/fff52f95-e1c8-4203-b8a6-54f7f414f9c8" />
 AI-driven guidance and coaching. Built with Next.js, React, and Prisma, the platform integrates advanced UI components and supports secure authentication.
