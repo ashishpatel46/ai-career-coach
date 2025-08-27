@@ -6,9 +6,11 @@
 >Industry Insights,
 >Smart Resume Creation for Your Career Growth
 <img width="913" height="583" alt="image" src="https://github.com/user-attachments/assets/fff52f95-e1c8-4203-b8a6-54f7f414f9c8" />
+
 AI-driven guidance and coaching. Built with Next.js, React, and Prisma, the platform integrates advanced UI components and supports secure authentication.
 
-Why AI-Career-Coach?
+#Why AI-Career-Coach?
+
 This project streamlines the creation and management of career resources through a modular, scalable architecture. The core features include:
 
  -AI Content Generation: Automate resume, cover letter, and interview question creation with advanced AI models.
