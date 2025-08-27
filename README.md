@@ -9,19 +9,19 @@
 
 AI-driven guidance and coaching. Built with Next.js, React, and Prisma, the platform integrates advanced UI components and supports secure authentication.
 
-#Why AI-Career-Coach?
+## Why AI-Career-Coach?
 
 This project streamlines the creation and management of career resources through a modular, scalable architecture. The core features include:
 
- -AI Content Generation: Automate resume, cover letter, and interview question creation with advanced AI models.
+ - AI Content Generation: Automate resume, cover letter, and interview question creation with advanced AI models.
 
- -Customizable UI Components: Reusable, accessible components built with Radix UI and Tailwind CSS guarantee a cohesive look.
+ - Customizable UI Components: Reusable, accessible components built with Radix UI and Tailwind CSS guarantee a cohesive look.
 
- -Secure Authentication: User management and session handling via Clerk keep data privacy and security a priority.
+ - Secure Authentication: User management and session handling via Clerk keep data privacy and security a priority.
 
--Insightful Dashboards: Visualize industry trends, salary data, and skill recommendations using interactive charts.
+ - Insightful Dashboards: Visualize industry trends, salary data, and skill recommendations using interactive charts.
 
--Event-Driven Workflows: Automate insights and updates leveraging Inngest integrations for real-time data processing.
+ - Event-Driven Workflows: Automate insights and updates leveraging Inngest integrations for real-time data processing.
 
 
 
@@ -31,7 +31,7 @@ This project streamlines the creation and management of career resources through
 - Installation
 - Scripts
 - Usage
-- Acknowledgments
+
 
 ## Features
 - AI-powered career advice using Google Generative AI
@@ -78,8 +78,4 @@ npm run dev
 
 Open your browser at `http://localhost:3000` to use the AI Career Coach platform.
 
-
-## Acknowledgments
-
-Special thanks to all open-source contributors and library authors whose work made this project possible.
 
