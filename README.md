@@ -56,7 +56,9 @@ This project streamlines the creation and management of career resources through
 Clone the repository and install dependencies:
 
 git clone https://github.com/ashishpatel46/ai-career-coach.git
+
 cd ai-career-coach
+
 npm install
 
 
