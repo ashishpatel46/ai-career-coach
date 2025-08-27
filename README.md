@@ -1,6 +1,12 @@
 # AI Career Coach
 
-**AI Career Coach** is a modern web application designed to help users navigate and enhance their career journeys using personalized, AI-driven guidance and coaching. Built with Next.js, React, and Prisma, the platform integrates advanced UI components and supports secure authentication.
+**AI Career Coach** is a modern web application designed to help users using Powerful Features for Your Career Growth like
+>AI-Powered Career Guidance
+>Interview Preparation
+>Industry Insights
+>Smart Resume Creation
+<img width="913" height="583" alt="image" src="https://github.com/user-attachments/assets/fff52f95-e1c8-4203-b8a6-54f7f414f9c8" />
+AI-driven guidance and coaching. Built with Next.js, React, and Prisma, the platform integrates advanced UI components and supports secure authentication.
 
 ## Table of Contents
 - Features
@@ -8,9 +14,6 @@
 - Installation
 - Scripts
 - Usage
-- Contributing
-- License
-- Contact
 - Acknowledgments
 
 ## Features
@@ -35,7 +38,7 @@
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/yourusername/ai-career-coach.git
+git clone https://github.com/ashishpatel46/ai-career-coach.git
 cd ai-career-coach
 npm install
 
@@ -58,17 +61,6 @@ npm run dev
 
 Open your browser at `http://localhost:3000` to use the AI Career Coach platform.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, create a feature branch, and submit your pull request. For major changes, open an issue first to discuss modifications.
-
-## License
-
-Specify your license here (e.g., MIT, GPL). Replace this section with actual license information.
-
-## Contact
-
-For questions, feedback, or support, reach out via [your-email@example.com].
 
 ## Acknowledgments
 
